@@ -1,6 +1,6 @@
 ﻿USE [MKI]
 GO
-/****** Object:  StoredProcedure [dbo].[KPICR_Average_GET]    Script Date: 7/21/2014 5:10:55 PM ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
