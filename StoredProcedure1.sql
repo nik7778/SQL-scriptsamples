@@ -1,6 +1,6 @@
 ﻿USE [MKI]
 GO
-/****** Object:  StoredProcedure [dbo].[KPICR_Finance_CR_List_GET]    Script Date: 7/21/2014 5:12:30 PM ******/
+
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
